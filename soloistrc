@@ -9,7 +9,7 @@ recipes:
 node_attributes:
   sprout:
     dock_preferences:
-      orientation: left
+      orientation: bottom
       auto_hide:   true
       clear_apps:  true
     settings:
