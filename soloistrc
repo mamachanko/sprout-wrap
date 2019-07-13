@@ -12,6 +12,7 @@ node_attributes:
       orientation: bottom
       auto_hide:   true
       clear_apps:  true
+      tile_size:   15
     settings:
       # to figure out what to set this to run
       #   `defaults read com.apple.menuextra.clock`
